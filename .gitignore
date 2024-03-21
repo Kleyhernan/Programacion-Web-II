@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Programacion-Web-II/v17
+/WebApi/obj
+/.vs/ProgramacionWebII-Actividad-Complementaria-CSharp/FileContentIndex
+/.vs/ProgramacionWebII-Actividad-Complementaria-CSharp/v17
