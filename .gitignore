@@ -18,3 +18,9 @@
 /ProgramacionWebII-Actividad-Complementaria-CSharp/obj/*
 /ProgramacionWebII-Actividad-Complementaria-CSharp/obj/Debug/*
 /ProgramacionWebII-Actividad-Complementaria-CSharp/debug/*
+/DLL/bin/Debug/net8.0
+/DLL/obj
+/ProgramacionWebII-Actividad-Complementaria-CSharp/.vs
+/ProgramacionWebII-Actividad-Complementaria-CSharp/bin/Debug/netstandard2.1
+/WebApi/bin/Debug/net8.0
+/WebApi/obj
