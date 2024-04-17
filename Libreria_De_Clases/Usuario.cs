@@ -2,9 +2,9 @@
 
 namespace ProgramacionWebII_Actividad_Complementaria_CSharp
 {
-    public class Class1
+    public class Usuario
     {
 
     }
 }
-
+ 
